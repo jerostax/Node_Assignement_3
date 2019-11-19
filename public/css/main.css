@@ -1,0 +1,13 @@
+body {
+  background-color: lightcoral;
+}
+h1 {
+  text-align: center;
+  color: lightskyblue;
+}
+a {
+  display: flex;
+  justify-content: center;
+  color: lightgreen;
+  font-weight: bold;
+}
